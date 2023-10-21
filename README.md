@@ -10,5 +10,5 @@ VKD3D is a translation layer for games running under proton, it essentially conv
 
 ### How do we actually do it? - I will only showcase Minecraft Bedrock Launcher here.
 
-* You will need to get the library itself, it is attached with this message!
+* You will need to get the library itself, it is in this repository!
 * You will now need it in your execution directory, on Minecraft Bedrock Launcher

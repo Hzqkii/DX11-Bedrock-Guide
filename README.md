@@ -12,7 +12,7 @@ VKD3D is a translation layer for games running under proton, it essentially conv
 
 * You will need to get the library itself, it is in this repository!
 * You will now need it in your execution directory, on Minecraft Bedrock Launcher
-
+* The Library: [d3d12.dll](https://raw.githubusercontent.com/Hzqkii/DX11-Bedrock-Guide/main/d3d12.dll)
 ![image](https://github.com/Hzqkii/DX11-Bedrock-Guide/assets/128440086/a2e32e2e-8df1-46cd-9644-f7319e972e60)
 
 ![image](https://github.com/Hzqkii/DX11-Bedrock-Guide/assets/128440086/3f0236a1-d816-48e9-90f8-0664276185a1)

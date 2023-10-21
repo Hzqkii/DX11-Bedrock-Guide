@@ -3,7 +3,7 @@
 Pre-requisites - [Mclauncher](https://github.com/MCMrARM/mc-w10-version-launcher/releases/tag/0.4.0) (or) [Minecraft Bedrock Launcher](https://bedrocklauncher.github.io/)
 ### How does it work?
 
-We use VKD3D which makes Minecraft: Bedrock Edition fallback to d3d11.
+We use [VKD3D](https://github.com/HansKristian-Work/vkd3d-proton) which makes Minecraft: Bedrock Edition fallback to d3d11.
 ### What is VKD3D?
 
 VKD3D is a translation layer for games running under proton, it essentially converts DX12 calls and translates them to Vulkan eg; DX12 is Russian and Vulkan is English, VKD3D is an interpreter or a translator for them.
@@ -20,3 +20,6 @@ VKD3D is a translation layer for games running under proton, it essentially conv
 ![image](https://github.com/Hzqkii/DX11-Bedrock-Guide/assets/128440086/688155dc-24f0-46eb-a234-fa7737c4e85d)
 
 ![image](https://github.com/Hzqkii/DX11-Bedrock-Guide/assets/128440086/b479cc82-866b-4a52-9777-c2183c170795)
+
+
+vkd3d version used in this guide: 2.10

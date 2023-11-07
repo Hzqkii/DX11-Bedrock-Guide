@@ -1,4 +1,4 @@
-## Force DX11 (Fix UI not appearing)
+## Force DX11
 
 Pre-requisites - [Mclauncher](https://github.com/MCMrARM/mc-w10-version-launcher/releases/tag/0.4.0) (or) [Minecraft Bedrock Launcher](https://bedrocklauncher.github.io/)
 ### How does it work?
